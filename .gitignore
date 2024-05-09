@@ -19,7 +19,8 @@ buildNumber.properties
 **/mvnw
 **/mvnw.cmd
 **/.mvn
-**/.mvnHELP.md
+**/HELP.md
+**/target
 ### Example user template template
 ### Example user template
 
