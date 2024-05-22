@@ -7,7 +7,7 @@
 		<artifactId>fullmall</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<groupId>com.zsy</groupId>
+	<groupId>com.mzh</groupId>
 	<artifactId>mall-product</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>mall-product</name>
